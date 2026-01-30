@@ -1,7 +1,5 @@
-# CodeAlpha_C_Programming_Tasks
-C PROGRAMMING TASKS
 
-Completed as part of CodeAlpha Internship.
+C PROGRAMMING TASKS
 
 ## Tasks Completed
 - Task 1: Basic Calculator using switch-case
